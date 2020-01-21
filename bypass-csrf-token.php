@@ -1,5 +1,5 @@
 <?php
-	$url = "http://eageskool.com/admin/login";
+	$url = "http://domain/admin/login";
 	$username = "admin@gmail.com";
 	$password = "admin123";
 	
